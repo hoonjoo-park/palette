@@ -82,19 +82,8 @@
                     <view key="view" contentMode="scaleToFill" id="Bsc-Nz-ZiQ">
                         <rect key="frame" x="0.0" y="0.0" width="390" height="844"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fBk-mE-sCC">
-                                <rect key="frame" x="164.33333333333334" y="407.66666666666669" width="61.333333333333343" height="28.666666666666686"/>
-                                <fontDescription key="fontDescription" type="boldSystem" pointSize="24"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                        </subviews>
                         <viewLayoutGuide key="safeArea" id="Vn4-wF-s4S"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                        <constraints>
-                            <constraint firstItem="fBk-mE-sCC" firstAttribute="centerX" secondItem="Bsc-Nz-ZiQ" secondAttribute="centerX" id="0Fg-4k-neM"/>
-                            <constraint firstItem="fBk-mE-sCC" firstAttribute="centerY" secondItem="Bsc-Nz-ZiQ" secondAttribute="centerY" id="WQP-Bu-W48"/>
-                        </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="dXp-XI-OHE"/>
                 </viewController>
